@@ -3,6 +3,5 @@
 <p align="center">
   <a> 2 repositories so far 🤟 </a>
   <br>
-  <br>
   <a2> I like UI design 😅 </a2>
 </p>
