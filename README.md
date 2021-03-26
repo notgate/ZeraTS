@@ -3,5 +3,5 @@
 <br>
 </br>
 <p align="center">
-  <a2> 2 repositories so far </a2>
+  <a2> 2 repositories so far 🤟 </a2>
 </p>
