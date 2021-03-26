@@ -29,6 +29,10 @@
 </p>
 </details>
 <details closed>
+   <p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=ZeraTS&theme=omni&show_icons=true" title="XAML">
+    <img src="https://github-readme-stats.vercel.app/api?username=ZeraTS&theme=omni&show_icons=true">
+  </a>
   <summary>
     Repositories
   </summary>
