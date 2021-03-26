@@ -34,7 +34,6 @@
   <a href="https://github.com/ZeraTS/Eden" title="XAML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=Eden&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
   </a>
-     <br>
    <a href="https://github.com/ZeraTS/Eden" title="XAML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=Eden&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
   </a>
