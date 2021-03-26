@@ -47,8 +47,8 @@
 <details open>
   <p align="center">
      <br>
-  <a href="https://github.com/organizations/hyperion" title="XAML">
-    <img src="https://cdn.discordapp.com/attachments/780958889356820510/824833866887331853/77079437.png">
+  <a href="https://github.com/Project-Hyperion" title="XAML">
+    <img src="https://cdn.discordapp.com/attachments/780958889356820510/824834423396106240/output-onlinepngtools4.png">
   </a>
     <summary>
       Organizations
