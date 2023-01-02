@@ -1,38 +1,23 @@
-<h3 align="center"> Github Introduction </h2>
-<p align="center">
-  <a> 5 repositories so far 🤟 </a>
-  <br>
-  <a2> I like UI design 😅 </a2>
+<h1 align="center">Hi 👋, I'm Zera</h1>
+<h3 align="center">Your typical friendly neighborhood front-end developer</h3>
+
+- 🌱 I’m currently learning **web development**
+
+- 🤝 I’m looking for help with [C#](https://github.com/topics/csharp)
+
+- 👨‍💻 All of my projects are available at [https://instagram.com/ui.newbie](https://instagram.com/ui.newbie)
+
+- 💬 Ask me about **XAML**
+
+- 📫 How to reach me **zder48334@gmail.com**
+
+- ⚡ Fun fact **I like Elden Ring**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/ui.newbie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ui.newbie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/tri_bytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tri_bytes" height="30" width="40" /></a>
 </p>
-<p align="center">
-  <a href="https://www.tutorialspoint.com/xaml/index.htm" title="XAML">
-    <img src="https://cdn.discordapp.com/attachments/780958889356820510/824814012679716885/output-onlinepngtools1.png">
-  </a>
-  <h1 align="center"></h1>
-</p>
-<details open>
-  <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=ZeraTS&theme=omni&show_icons=true" title="XAML">
-    <img src="https://github-readme-stats.vercel.app/api?username=ZeraTS&theme=omni&show_icons=true">
-  </a>
- 
-  <h1 align="center"></h1>
-  <summary>
-    Github Overall
-  </summary>
-</p>
-</details>
-<p align="center">
-<details open>
-     <br>
-   <a href="https://github.com/ZeraTS/AuthGGMaterialAdminPanel" title="XAML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=AuthGGMaterialAdminPanel&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
-  <a href="https://github.com/ZeraTS/Pognapse" title="XAML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZeraTS&repo=Pognapse&bg_color=191622&title_color=DA68AB&text_color=fff&layout=compact">
-  </a>
-                  
-     
-  <summary>
-    Repositories
-  </summary>
-</details>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
