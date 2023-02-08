@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚒️ Currently working on .NET WPF applicatirons<br>😤 Trying to learn more about web development<br>💫 Learning new design principles everyday
+⚒️ Currently working on .NET WPF applications<br>😤 Trying to learn more about web development<br>💫 Learning new design principles everyday
 
 
 ## 🌐 Socials:
