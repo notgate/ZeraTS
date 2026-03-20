@@ -4,20 +4,20 @@
 
 <br>
 
-<table width="100%" bgcolor="#0f172a" cellpadding="20" cellspacing="0">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs,rust,go,ts,py,svelte,dotnet,windows,linux&perrow=9" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=ZeraTS&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0f172a&border=4c0519&ring=f43f5e&fire=fb7185&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=f43f5e&sideLabels=94a3b8&dates=475569&stroke=4c0519" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeraTS&bg_color=0f172a&color=f43f5e&line=f43f5e&point=fb7185&area_color=f43f5e&area=true&hide_border=true&hide_title=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,rust,go,ts,py,svelte,dotnet,windows,linux&perrow=9" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ZeraTS&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0f172a&border=4c0519&ring=f43f5e&fire=fb7185&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=f43f5e&sideLabels=94a3b8&dates=475569&stroke=4c0519" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZeraTS&bg_color=0f172a&color=f43f5e&line=f43f5e&point=fb7185&area_color=f43f5e&area=true&hide_border=true&hide_title=true" width="100%" />
+</div>
+
+
